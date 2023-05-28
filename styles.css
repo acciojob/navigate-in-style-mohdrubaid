@@ -1,0 +1,11 @@
+.container{
+	background-color:rgb(211, 211, 211);
+	margin-right:1rem;
+	padding: 10px;
+}
+.conatiner ul li{
+	display:flex;
+	margin-right: 1rem;
+	display:inline;
+	list-style:none;
+}
